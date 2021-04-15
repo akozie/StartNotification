@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StartNotification</string>
+    <string name="channel_description">This is my Channel</string>
+    <string name="notification_title">My Notification</string>
+    <string name="notification_message">This is my Notification Channel</string>
+    <string name="channel_name">Emmmanuel</string>
+    <string name="active">ACTIVE</string>
+</resources>
